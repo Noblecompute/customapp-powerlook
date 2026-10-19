@@ -1,0 +1,176 @@
+{
+  "timestamp": "2026-10-19T13:26:28.833Z",
+  "data": {
+    "timestamp": "2026-10-19T13:26:28.833Z",
+    "brand": {
+      "brand_name": "Powerlook",
+      "brand_tagline": "wow",
+      "brand_logo": "/organizations/powerlook/upload_image/brand_logo.jpg"
+    },
+    "categories": [
+      {
+        "category_name": "Cloud Compute",
+        "category_image": "",
+        "cover_product_id": 1
+      },
+      {
+        "category_name": "Cyber Security",
+        "category_image": ""
+      },
+      {
+        "category_name": "AI Solutions",
+        "category_image": ""
+      },
+      {
+        "category_name": "DevOps & CI/CD",
+        "category_image": ""
+      }
+    ],
+    "hero": [
+      {
+        "title": "Next-Gen Cloud Computing & Enterprise Security",
+        "image": "",
+        "category": ""
+      }
+    ],
+    "instagram": [],
+    "news": [
+      {
+        "headline": "Welcome to NobleCompute Cloud Platform!",
+        "link": ""
+      },
+      {
+        "headline": "Limited Offer: 20% off all enterprise security tiers this month.",
+        "link": ""
+      }
+    ],
+    "story": [
+      {
+        "title": "Customer Spotlight: Global Scalability",
+        "video": "",
+        "image": "",
+        "description": "",
+        "link": "https://noblecompute.com/stories/cloud-scale"
+      }
+    ],
+    "topics": [
+      {
+        "topic_name": "Cloud Architecture",
+        "topic_image": ""
+      },
+      {
+        "topic_name": "Zero Trust Security",
+        "topic_image": ""
+      },
+      {
+        "topic_name": "AI Models & LLMs",
+        "topic_image": ""
+      }
+    ],
+    "footer": {
+      "footer_company": "Powerlook Apparels Pvt Ltd",
+      "footer_address": "Lotus Corporate Park Wing G02 - 1502, Ram Mandir Lane, off Western Express Highway, Goregaon, Mumbai, 400063",
+      "footer_phone": "+91 9696333000",
+      "footer_email": "support@powerlook.in",
+      "footer_hours": "Mon - Sun : 10:00 AM - 06:00 PM",
+      "footer_copyright": "POWERLOOK'S POWER SOURCE: THE FOUNDATION BEHIND OUR OFFERINGS",
+      "company_links": [
+        {
+          "title": "About Us",
+          "url": "/about"
+        },
+        {
+          "title": "Stores",
+          "url": "/stores"
+        },
+        {
+          "title": "Careers",
+          "url": "/careers"
+        },
+        {
+          "title": "Contact",
+          "url": "/contact"
+        },
+        {
+          "title": "FAQ",
+          "url": "/faq"
+        },
+        {
+          "title": "Sitemap",
+          "url": "/sitemap"
+        }
+      ],
+      "policy_links": [
+        {
+          "title": "Membership",
+          "url": "/membership"
+        },
+        {
+          "title": "Place Return or Exchange Request",
+          "url": "/returns"
+        },
+        {
+          "title": "Shipping Policy",
+          "url": "/shipping"
+        },
+        {
+          "title": "Cancellation Policy",
+          "url": "/cancellation"
+        },
+        {
+          "title": "Exchange and Refund Policy",
+          "url": "/refund"
+        },
+        {
+          "title": "Privacy Policy",
+          "url": "/privacy"
+        }
+      ],
+      "social_links": {
+        "facebook": "https://facebook.com/powerlook",
+        "instagram": "https://instagram.com/powerlook",
+        "youtube": "https://youtube.com/powerlook"
+      }
+    },
+    "subpages": [
+      {
+        "id": 1,
+        "name": "Bare-Metal Cloud Server Pro",
+        "category": "Cloud Compute",
+        "price": "$149.00",
+        "discount_price": "$119.00",
+        "description": "Ultra-low latency server with 64GB DDR5 ECC RAM, 10Gbps uplink, and DDoS protection.",
+        "photos": [],
+        "is_category_cover": true,
+        "is_showcase": true
+      }
+    ],
+    "showcase": [
+      {
+        "id": 1,
+        "name": "Bare-Metal Cloud Server Pro",
+        "category": "Cloud Compute",
+        "price": "$149.00",
+        "discount_price": "$119.00",
+        "description": "Ultra-low latency server with 64GB DDR5 ECC RAM, 10Gbps uplink, and DDoS protection.",
+        "photos": [],
+        "is_category_cover": true,
+        "is_showcase": true
+      }
+    ],
+    "NewArrival": [],
+    "Mix": []
+  },
+  "filename": "2026-10-19-132628-configuration.json",
+  "userEmail": "nitikesh2@tambnick25.onmicrosoft.com",
+  "userName": "nitikesh2",
+  "organizationName": "powerlook",
+  "organizationSlug": "powerlook",
+  "workspaceType": "organization",
+  "github": {
+    "repository": "https://github.com/Noblecompute/customapp-powerlook",
+    "branch": "main",
+    "publishedAt": "2026-10-19T13:26:35.536Z",
+    "mediaBaseUrl": "https://raw.githubusercontent.com/Noblecompute/customapp-powerlook/main/media/"
+  }
+}
